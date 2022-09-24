@@ -1,0 +1,14 @@
+C:\Vrunda\TASK1_20-09-2022\TASK1_20-09-2022\bin\Debug\netcoreapp3.1\TASK1_20-09-2022.exe
+C:\Vrunda\TASK1_20-09-2022\TASK1_20-09-2022\bin\Debug\netcoreapp3.1\TASK1_20-09-2022.deps.json
+C:\Vrunda\TASK1_20-09-2022\TASK1_20-09-2022\bin\Debug\netcoreapp3.1\TASK1_20-09-2022.runtimeconfig.json
+C:\Vrunda\TASK1_20-09-2022\TASK1_20-09-2022\bin\Debug\netcoreapp3.1\TASK1_20-09-2022.runtimeconfig.dev.json
+C:\Vrunda\TASK1_20-09-2022\TASK1_20-09-2022\bin\Debug\netcoreapp3.1\TASK1_20-09-2022.dll
+C:\Vrunda\TASK1_20-09-2022\TASK1_20-09-2022\bin\Debug\netcoreapp3.1\TASK1_20-09-2022.pdb
+C:\Vrunda\TASK1_20-09-2022\TASK1_20-09-2022\obj\Debug\netcoreapp3.1\TASK1_20-09-2022.csproj.AssemblyReference.cache
+C:\Vrunda\TASK1_20-09-2022\TASK1_20-09-2022\obj\Debug\netcoreapp3.1\TASK1_20-09-2022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Vrunda\TASK1_20-09-2022\TASK1_20-09-2022\obj\Debug\netcoreapp3.1\TASK1_20-09-2022.AssemblyInfoInputs.cache
+C:\Vrunda\TASK1_20-09-2022\TASK1_20-09-2022\obj\Debug\netcoreapp3.1\TASK1_20-09-2022.AssemblyInfo.cs
+C:\Vrunda\TASK1_20-09-2022\TASK1_20-09-2022\obj\Debug\netcoreapp3.1\TASK1_20-09-2022.csproj.CoreCompileInputs.cache
+C:\Vrunda\TASK1_20-09-2022\TASK1_20-09-2022\obj\Debug\netcoreapp3.1\TASK1_20-09-2022.dll
+C:\Vrunda\TASK1_20-09-2022\TASK1_20-09-2022\obj\Debug\netcoreapp3.1\TASK1_20-09-2022.pdb
+C:\Vrunda\TASK1_20-09-2022\TASK1_20-09-2022\obj\Debug\netcoreapp3.1\TASK1_20-09-2022.genruntimeconfig.cache
