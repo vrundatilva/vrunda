@@ -1,0 +1,14 @@
+C:\Vrunda\Assignment\patterns\bin\Debug\netcoreapp3.1\patterns.exe
+C:\Vrunda\Assignment\patterns\bin\Debug\netcoreapp3.1\patterns.deps.json
+C:\Vrunda\Assignment\patterns\bin\Debug\netcoreapp3.1\patterns.runtimeconfig.json
+C:\Vrunda\Assignment\patterns\bin\Debug\netcoreapp3.1\patterns.runtimeconfig.dev.json
+C:\Vrunda\Assignment\patterns\bin\Debug\netcoreapp3.1\patterns.dll
+C:\Vrunda\Assignment\patterns\bin\Debug\netcoreapp3.1\patterns.pdb
+C:\Vrunda\Assignment\patterns\obj\Debug\netcoreapp3.1\patterns.csproj.AssemblyReference.cache
+C:\Vrunda\Assignment\patterns\obj\Debug\netcoreapp3.1\patterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Vrunda\Assignment\patterns\obj\Debug\netcoreapp3.1\patterns.AssemblyInfoInputs.cache
+C:\Vrunda\Assignment\patterns\obj\Debug\netcoreapp3.1\patterns.AssemblyInfo.cs
+C:\Vrunda\Assignment\patterns\obj\Debug\netcoreapp3.1\patterns.csproj.CoreCompileInputs.cache
+C:\Vrunda\Assignment\patterns\obj\Debug\netcoreapp3.1\patterns.dll
+C:\Vrunda\Assignment\patterns\obj\Debug\netcoreapp3.1\patterns.pdb
+C:\Vrunda\Assignment\patterns\obj\Debug\netcoreapp3.1\patterns.genruntimeconfig.cache

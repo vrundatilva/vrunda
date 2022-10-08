@@ -1,0 +1,14 @@
+C:\Vrunda\Assignment\Inheritance\bin\Debug\netcoreapp3.1\Inheritance.exe
+C:\Vrunda\Assignment\Inheritance\bin\Debug\netcoreapp3.1\Inheritance.deps.json
+C:\Vrunda\Assignment\Inheritance\bin\Debug\netcoreapp3.1\Inheritance.runtimeconfig.json
+C:\Vrunda\Assignment\Inheritance\bin\Debug\netcoreapp3.1\Inheritance.runtimeconfig.dev.json
+C:\Vrunda\Assignment\Inheritance\bin\Debug\netcoreapp3.1\Inheritance.dll
+C:\Vrunda\Assignment\Inheritance\bin\Debug\netcoreapp3.1\Inheritance.pdb
+C:\Vrunda\Assignment\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.csproj.AssemblyReference.cache
+C:\Vrunda\Assignment\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Vrunda\Assignment\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.AssemblyInfoInputs.cache
+C:\Vrunda\Assignment\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.AssemblyInfo.cs
+C:\Vrunda\Assignment\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.csproj.CoreCompileInputs.cache
+C:\Vrunda\Assignment\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.dll
+C:\Vrunda\Assignment\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.pdb
+C:\Vrunda\Assignment\Inheritance\obj\Debug\netcoreapp3.1\Inheritance.genruntimeconfig.cache

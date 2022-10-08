@@ -1,0 +1,14 @@
+C:\Vrunda\Assignment\SortOrder\bin\Debug\netcoreapp3.1\SortOrder.exe
+C:\Vrunda\Assignment\SortOrder\bin\Debug\netcoreapp3.1\SortOrder.deps.json
+C:\Vrunda\Assignment\SortOrder\bin\Debug\netcoreapp3.1\SortOrder.runtimeconfig.json
+C:\Vrunda\Assignment\SortOrder\bin\Debug\netcoreapp3.1\SortOrder.runtimeconfig.dev.json
+C:\Vrunda\Assignment\SortOrder\bin\Debug\netcoreapp3.1\SortOrder.dll
+C:\Vrunda\Assignment\SortOrder\bin\Debug\netcoreapp3.1\SortOrder.pdb
+C:\Vrunda\Assignment\SortOrder\obj\Debug\netcoreapp3.1\SortOrder.csproj.AssemblyReference.cache
+C:\Vrunda\Assignment\SortOrder\obj\Debug\netcoreapp3.1\SortOrder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Vrunda\Assignment\SortOrder\obj\Debug\netcoreapp3.1\SortOrder.AssemblyInfoInputs.cache
+C:\Vrunda\Assignment\SortOrder\obj\Debug\netcoreapp3.1\SortOrder.AssemblyInfo.cs
+C:\Vrunda\Assignment\SortOrder\obj\Debug\netcoreapp3.1\SortOrder.csproj.CoreCompileInputs.cache
+C:\Vrunda\Assignment\SortOrder\obj\Debug\netcoreapp3.1\SortOrder.dll
+C:\Vrunda\Assignment\SortOrder\obj\Debug\netcoreapp3.1\SortOrder.pdb
+C:\Vrunda\Assignment\SortOrder\obj\Debug\netcoreapp3.1\SortOrder.genruntimeconfig.cache

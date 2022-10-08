@@ -1,0 +1,13 @@
+C:\Vrunda\Assignment\ReplaceNumber\bin\Debug\netcoreapp3.1\ReplaceNumber.exe
+C:\Vrunda\Assignment\ReplaceNumber\bin\Debug\netcoreapp3.1\ReplaceNumber.deps.json
+C:\Vrunda\Assignment\ReplaceNumber\bin\Debug\netcoreapp3.1\ReplaceNumber.runtimeconfig.json
+C:\Vrunda\Assignment\ReplaceNumber\bin\Debug\netcoreapp3.1\ReplaceNumber.runtimeconfig.dev.json
+C:\Vrunda\Assignment\ReplaceNumber\bin\Debug\netcoreapp3.1\ReplaceNumber.dll
+C:\Vrunda\Assignment\ReplaceNumber\bin\Debug\netcoreapp3.1\ReplaceNumber.pdb
+C:\Vrunda\Assignment\ReplaceNumber\obj\Debug\netcoreapp3.1\ReplaceNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Vrunda\Assignment\ReplaceNumber\obj\Debug\netcoreapp3.1\ReplaceNumber.AssemblyInfoInputs.cache
+C:\Vrunda\Assignment\ReplaceNumber\obj\Debug\netcoreapp3.1\ReplaceNumber.AssemblyInfo.cs
+C:\Vrunda\Assignment\ReplaceNumber\obj\Debug\netcoreapp3.1\ReplaceNumber.csproj.CoreCompileInputs.cache
+C:\Vrunda\Assignment\ReplaceNumber\obj\Debug\netcoreapp3.1\ReplaceNumber.dll
+C:\Vrunda\Assignment\ReplaceNumber\obj\Debug\netcoreapp3.1\ReplaceNumber.pdb
+C:\Vrunda\Assignment\ReplaceNumber\obj\Debug\netcoreapp3.1\ReplaceNumber.genruntimeconfig.cache

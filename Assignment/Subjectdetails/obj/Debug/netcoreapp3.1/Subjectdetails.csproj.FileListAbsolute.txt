@@ -1,0 +1,13 @@
+C:\Vrunda\Assignment\Subjectdetails\bin\Debug\netcoreapp3.1\Subjectdetails.exe
+C:\Vrunda\Assignment\Subjectdetails\bin\Debug\netcoreapp3.1\Subjectdetails.deps.json
+C:\Vrunda\Assignment\Subjectdetails\bin\Debug\netcoreapp3.1\Subjectdetails.runtimeconfig.json
+C:\Vrunda\Assignment\Subjectdetails\bin\Debug\netcoreapp3.1\Subjectdetails.runtimeconfig.dev.json
+C:\Vrunda\Assignment\Subjectdetails\bin\Debug\netcoreapp3.1\Subjectdetails.dll
+C:\Vrunda\Assignment\Subjectdetails\bin\Debug\netcoreapp3.1\Subjectdetails.pdb
+C:\Vrunda\Assignment\Subjectdetails\obj\Debug\netcoreapp3.1\Subjectdetails.GeneratedMSBuildEditorConfig.editorconfig
+C:\Vrunda\Assignment\Subjectdetails\obj\Debug\netcoreapp3.1\Subjectdetails.AssemblyInfoInputs.cache
+C:\Vrunda\Assignment\Subjectdetails\obj\Debug\netcoreapp3.1\Subjectdetails.AssemblyInfo.cs
+C:\Vrunda\Assignment\Subjectdetails\obj\Debug\netcoreapp3.1\Subjectdetails.csproj.CoreCompileInputs.cache
+C:\Vrunda\Assignment\Subjectdetails\obj\Debug\netcoreapp3.1\Subjectdetails.dll
+C:\Vrunda\Assignment\Subjectdetails\obj\Debug\netcoreapp3.1\Subjectdetails.pdb
+C:\Vrunda\Assignment\Subjectdetails\obj\Debug\netcoreapp3.1\Subjectdetails.genruntimeconfig.cache

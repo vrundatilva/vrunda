@@ -1,0 +1,14 @@
+C:\Vrunda\Assignment\Constructor\bin\Debug\netcoreapp3.1\Constructor.exe
+C:\Vrunda\Assignment\Constructor\bin\Debug\netcoreapp3.1\Constructor.deps.json
+C:\Vrunda\Assignment\Constructor\bin\Debug\netcoreapp3.1\Constructor.runtimeconfig.json
+C:\Vrunda\Assignment\Constructor\bin\Debug\netcoreapp3.1\Constructor.runtimeconfig.dev.json
+C:\Vrunda\Assignment\Constructor\bin\Debug\netcoreapp3.1\Constructor.dll
+C:\Vrunda\Assignment\Constructor\bin\Debug\netcoreapp3.1\Constructor.pdb
+C:\Vrunda\Assignment\Constructor\obj\Debug\netcoreapp3.1\Constructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Vrunda\Assignment\Constructor\obj\Debug\netcoreapp3.1\Constructor.AssemblyInfoInputs.cache
+C:\Vrunda\Assignment\Constructor\obj\Debug\netcoreapp3.1\Constructor.AssemblyInfo.cs
+C:\Vrunda\Assignment\Constructor\obj\Debug\netcoreapp3.1\Constructor.csproj.CoreCompileInputs.cache
+C:\Vrunda\Assignment\Constructor\obj\Debug\netcoreapp3.1\Constructor.dll
+C:\Vrunda\Assignment\Constructor\obj\Debug\netcoreapp3.1\Constructor.pdb
+C:\Vrunda\Assignment\Constructor\obj\Debug\netcoreapp3.1\Constructor.genruntimeconfig.cache
+C:\Vrunda\Assignment\Constructor\obj\Debug\netcoreapp3.1\Constructor.csproj.AssemblyReference.cache

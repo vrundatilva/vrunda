@@ -1,0 +1,13 @@
+C:\Vrunda\Assignment\StaticNumber\bin\Debug\netcoreapp3.1\StaticNumber.exe
+C:\Vrunda\Assignment\StaticNumber\bin\Debug\netcoreapp3.1\StaticNumber.deps.json
+C:\Vrunda\Assignment\StaticNumber\bin\Debug\netcoreapp3.1\StaticNumber.runtimeconfig.json
+C:\Vrunda\Assignment\StaticNumber\bin\Debug\netcoreapp3.1\StaticNumber.runtimeconfig.dev.json
+C:\Vrunda\Assignment\StaticNumber\bin\Debug\netcoreapp3.1\StaticNumber.dll
+C:\Vrunda\Assignment\StaticNumber\bin\Debug\netcoreapp3.1\StaticNumber.pdb
+C:\Vrunda\Assignment\StaticNumber\obj\Debug\netcoreapp3.1\StaticNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Vrunda\Assignment\StaticNumber\obj\Debug\netcoreapp3.1\StaticNumber.AssemblyInfoInputs.cache
+C:\Vrunda\Assignment\StaticNumber\obj\Debug\netcoreapp3.1\StaticNumber.AssemblyInfo.cs
+C:\Vrunda\Assignment\StaticNumber\obj\Debug\netcoreapp3.1\StaticNumber.csproj.CoreCompileInputs.cache
+C:\Vrunda\Assignment\StaticNumber\obj\Debug\netcoreapp3.1\StaticNumber.dll
+C:\Vrunda\Assignment\StaticNumber\obj\Debug\netcoreapp3.1\StaticNumber.pdb
+C:\Vrunda\Assignment\StaticNumber\obj\Debug\netcoreapp3.1\StaticNumber.genruntimeconfig.cache

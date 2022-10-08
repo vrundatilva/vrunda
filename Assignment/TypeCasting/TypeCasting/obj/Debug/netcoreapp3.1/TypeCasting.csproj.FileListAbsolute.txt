@@ -1,0 +1,14 @@
+C:\Vrunda\Assignment\TypeCasting\TypeCasting\bin\Debug\netcoreapp3.1\TypeCasting.exe
+C:\Vrunda\Assignment\TypeCasting\TypeCasting\bin\Debug\netcoreapp3.1\TypeCasting.deps.json
+C:\Vrunda\Assignment\TypeCasting\TypeCasting\bin\Debug\netcoreapp3.1\TypeCasting.runtimeconfig.json
+C:\Vrunda\Assignment\TypeCasting\TypeCasting\bin\Debug\netcoreapp3.1\TypeCasting.runtimeconfig.dev.json
+C:\Vrunda\Assignment\TypeCasting\TypeCasting\bin\Debug\netcoreapp3.1\TypeCasting.dll
+C:\Vrunda\Assignment\TypeCasting\TypeCasting\bin\Debug\netcoreapp3.1\TypeCasting.pdb
+C:\Vrunda\Assignment\TypeCasting\TypeCasting\obj\Debug\netcoreapp3.1\TypeCasting.csproj.AssemblyReference.cache
+C:\Vrunda\Assignment\TypeCasting\TypeCasting\obj\Debug\netcoreapp3.1\TypeCasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Vrunda\Assignment\TypeCasting\TypeCasting\obj\Debug\netcoreapp3.1\TypeCasting.AssemblyInfoInputs.cache
+C:\Vrunda\Assignment\TypeCasting\TypeCasting\obj\Debug\netcoreapp3.1\TypeCasting.AssemblyInfo.cs
+C:\Vrunda\Assignment\TypeCasting\TypeCasting\obj\Debug\netcoreapp3.1\TypeCasting.csproj.CoreCompileInputs.cache
+C:\Vrunda\Assignment\TypeCasting\TypeCasting\obj\Debug\netcoreapp3.1\TypeCasting.dll
+C:\Vrunda\Assignment\TypeCasting\TypeCasting\obj\Debug\netcoreapp3.1\TypeCasting.pdb
+C:\Vrunda\Assignment\TypeCasting\TypeCasting\obj\Debug\netcoreapp3.1\TypeCasting.genruntimeconfig.cache

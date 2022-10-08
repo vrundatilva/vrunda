@@ -1,0 +1,14 @@
+C:\Vrunda\Assignment\StringOp\bin\Debug\netcoreapp3.1\StringOp.exe
+C:\Vrunda\Assignment\StringOp\bin\Debug\netcoreapp3.1\StringOp.deps.json
+C:\Vrunda\Assignment\StringOp\bin\Debug\netcoreapp3.1\StringOp.runtimeconfig.json
+C:\Vrunda\Assignment\StringOp\bin\Debug\netcoreapp3.1\StringOp.runtimeconfig.dev.json
+C:\Vrunda\Assignment\StringOp\bin\Debug\netcoreapp3.1\StringOp.dll
+C:\Vrunda\Assignment\StringOp\bin\Debug\netcoreapp3.1\StringOp.pdb
+C:\Vrunda\Assignment\StringOp\obj\Debug\netcoreapp3.1\StringOp.csproj.AssemblyReference.cache
+C:\Vrunda\Assignment\StringOp\obj\Debug\netcoreapp3.1\StringOp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Vrunda\Assignment\StringOp\obj\Debug\netcoreapp3.1\StringOp.AssemblyInfoInputs.cache
+C:\Vrunda\Assignment\StringOp\obj\Debug\netcoreapp3.1\StringOp.AssemblyInfo.cs
+C:\Vrunda\Assignment\StringOp\obj\Debug\netcoreapp3.1\StringOp.csproj.CoreCompileInputs.cache
+C:\Vrunda\Assignment\StringOp\obj\Debug\netcoreapp3.1\StringOp.dll
+C:\Vrunda\Assignment\StringOp\obj\Debug\netcoreapp3.1\StringOp.pdb
+C:\Vrunda\Assignment\StringOp\obj\Debug\netcoreapp3.1\StringOp.genruntimeconfig.cache

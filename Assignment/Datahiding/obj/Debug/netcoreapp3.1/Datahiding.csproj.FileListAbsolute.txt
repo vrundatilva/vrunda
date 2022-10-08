@@ -1,0 +1,13 @@
+C:\Vrunda\Assignment\Datahiding\bin\Debug\netcoreapp3.1\Datahiding.exe
+C:\Vrunda\Assignment\Datahiding\bin\Debug\netcoreapp3.1\Datahiding.deps.json
+C:\Vrunda\Assignment\Datahiding\bin\Debug\netcoreapp3.1\Datahiding.runtimeconfig.json
+C:\Vrunda\Assignment\Datahiding\bin\Debug\netcoreapp3.1\Datahiding.runtimeconfig.dev.json
+C:\Vrunda\Assignment\Datahiding\bin\Debug\netcoreapp3.1\Datahiding.dll
+C:\Vrunda\Assignment\Datahiding\bin\Debug\netcoreapp3.1\Datahiding.pdb
+C:\Vrunda\Assignment\Datahiding\obj\Debug\netcoreapp3.1\Datahiding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Vrunda\Assignment\Datahiding\obj\Debug\netcoreapp3.1\Datahiding.AssemblyInfoInputs.cache
+C:\Vrunda\Assignment\Datahiding\obj\Debug\netcoreapp3.1\Datahiding.AssemblyInfo.cs
+C:\Vrunda\Assignment\Datahiding\obj\Debug\netcoreapp3.1\Datahiding.csproj.CoreCompileInputs.cache
+C:\Vrunda\Assignment\Datahiding\obj\Debug\netcoreapp3.1\Datahiding.dll
+C:\Vrunda\Assignment\Datahiding\obj\Debug\netcoreapp3.1\Datahiding.pdb
+C:\Vrunda\Assignment\Datahiding\obj\Debug\netcoreapp3.1\Datahiding.genruntimeconfig.cache

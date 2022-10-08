@@ -1,0 +1,13 @@
+C:\Vrunda\Assignment\Factorial\bin\Debug\netcoreapp3.1\Factorial.exe
+C:\Vrunda\Assignment\Factorial\bin\Debug\netcoreapp3.1\Factorial.deps.json
+C:\Vrunda\Assignment\Factorial\bin\Debug\netcoreapp3.1\Factorial.runtimeconfig.json
+C:\Vrunda\Assignment\Factorial\bin\Debug\netcoreapp3.1\Factorial.runtimeconfig.dev.json
+C:\Vrunda\Assignment\Factorial\bin\Debug\netcoreapp3.1\Factorial.dll
+C:\Vrunda\Assignment\Factorial\bin\Debug\netcoreapp3.1\Factorial.pdb
+C:\Vrunda\Assignment\Factorial\obj\Debug\netcoreapp3.1\Factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Vrunda\Assignment\Factorial\obj\Debug\netcoreapp3.1\Factorial.AssemblyInfoInputs.cache
+C:\Vrunda\Assignment\Factorial\obj\Debug\netcoreapp3.1\Factorial.AssemblyInfo.cs
+C:\Vrunda\Assignment\Factorial\obj\Debug\netcoreapp3.1\Factorial.csproj.CoreCompileInputs.cache
+C:\Vrunda\Assignment\Factorial\obj\Debug\netcoreapp3.1\Factorial.dll
+C:\Vrunda\Assignment\Factorial\obj\Debug\netcoreapp3.1\Factorial.pdb
+C:\Vrunda\Assignment\Factorial\obj\Debug\netcoreapp3.1\Factorial.genruntimeconfig.cache
