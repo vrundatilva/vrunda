@@ -1,0 +1,16 @@
+C:\Vrunda\Assignment\Dictionary\bin\Debug\net5.0\Dictionary.exe
+C:\Vrunda\Assignment\Dictionary\bin\Debug\net5.0\Dictionary.deps.json
+C:\Vrunda\Assignment\Dictionary\bin\Debug\net5.0\Dictionary.runtimeconfig.json
+C:\Vrunda\Assignment\Dictionary\bin\Debug\net5.0\Dictionary.runtimeconfig.dev.json
+C:\Vrunda\Assignment\Dictionary\bin\Debug\net5.0\Dictionary.dll
+C:\Vrunda\Assignment\Dictionary\bin\Debug\net5.0\ref\Dictionary.dll
+C:\Vrunda\Assignment\Dictionary\bin\Debug\net5.0\Dictionary.pdb
+C:\Vrunda\Assignment\Dictionary\obj\Debug\net5.0\Dictionary.csproj.AssemblyReference.cache
+C:\Vrunda\Assignment\Dictionary\obj\Debug\net5.0\Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Vrunda\Assignment\Dictionary\obj\Debug\net5.0\Dictionary.AssemblyInfoInputs.cache
+C:\Vrunda\Assignment\Dictionary\obj\Debug\net5.0\Dictionary.AssemblyInfo.cs
+C:\Vrunda\Assignment\Dictionary\obj\Debug\net5.0\Dictionary.csproj.CoreCompileInputs.cache
+C:\Vrunda\Assignment\Dictionary\obj\Debug\net5.0\Dictionary.dll
+C:\Vrunda\Assignment\Dictionary\obj\Debug\net5.0\ref\Dictionary.dll
+C:\Vrunda\Assignment\Dictionary\obj\Debug\net5.0\Dictionary.pdb
+C:\Vrunda\Assignment\Dictionary\obj\Debug\net5.0\Dictionary.genruntimeconfig.cache

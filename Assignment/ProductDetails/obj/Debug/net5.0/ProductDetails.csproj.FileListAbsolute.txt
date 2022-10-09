@@ -1,0 +1,15 @@
+C:\Vrunda\Assignment\ProductDetails\bin\Debug\net5.0\ProductDetails.exe
+C:\Vrunda\Assignment\ProductDetails\bin\Debug\net5.0\ProductDetails.deps.json
+C:\Vrunda\Assignment\ProductDetails\bin\Debug\net5.0\ProductDetails.runtimeconfig.json
+C:\Vrunda\Assignment\ProductDetails\bin\Debug\net5.0\ProductDetails.runtimeconfig.dev.json
+C:\Vrunda\Assignment\ProductDetails\bin\Debug\net5.0\ProductDetails.dll
+C:\Vrunda\Assignment\ProductDetails\bin\Debug\net5.0\ref\ProductDetails.dll
+C:\Vrunda\Assignment\ProductDetails\bin\Debug\net5.0\ProductDetails.pdb
+C:\Vrunda\Assignment\ProductDetails\obj\Debug\net5.0\ProductDetails.GeneratedMSBuildEditorConfig.editorconfig
+C:\Vrunda\Assignment\ProductDetails\obj\Debug\net5.0\ProductDetails.AssemblyInfoInputs.cache
+C:\Vrunda\Assignment\ProductDetails\obj\Debug\net5.0\ProductDetails.AssemblyInfo.cs
+C:\Vrunda\Assignment\ProductDetails\obj\Debug\net5.0\ProductDetails.csproj.CoreCompileInputs.cache
+C:\Vrunda\Assignment\ProductDetails\obj\Debug\net5.0\ProductDetails.dll
+C:\Vrunda\Assignment\ProductDetails\obj\Debug\net5.0\ref\ProductDetails.dll
+C:\Vrunda\Assignment\ProductDetails\obj\Debug\net5.0\ProductDetails.pdb
+C:\Vrunda\Assignment\ProductDetails\obj\Debug\net5.0\ProductDetails.genruntimeconfig.cache

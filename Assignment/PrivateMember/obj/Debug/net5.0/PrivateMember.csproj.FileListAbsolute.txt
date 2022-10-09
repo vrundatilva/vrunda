@@ -1,0 +1,15 @@
+C:\Vrunda\Assignment\PrivateMember\bin\Debug\net5.0\PrivateMember.exe
+C:\Vrunda\Assignment\PrivateMember\bin\Debug\net5.0\PrivateMember.deps.json
+C:\Vrunda\Assignment\PrivateMember\bin\Debug\net5.0\PrivateMember.runtimeconfig.json
+C:\Vrunda\Assignment\PrivateMember\bin\Debug\net5.0\PrivateMember.runtimeconfig.dev.json
+C:\Vrunda\Assignment\PrivateMember\bin\Debug\net5.0\PrivateMember.dll
+C:\Vrunda\Assignment\PrivateMember\bin\Debug\net5.0\ref\PrivateMember.dll
+C:\Vrunda\Assignment\PrivateMember\bin\Debug\net5.0\PrivateMember.pdb
+C:\Vrunda\Assignment\PrivateMember\obj\Debug\net5.0\PrivateMember.GeneratedMSBuildEditorConfig.editorconfig
+C:\Vrunda\Assignment\PrivateMember\obj\Debug\net5.0\PrivateMember.AssemblyInfoInputs.cache
+C:\Vrunda\Assignment\PrivateMember\obj\Debug\net5.0\PrivateMember.AssemblyInfo.cs
+C:\Vrunda\Assignment\PrivateMember\obj\Debug\net5.0\PrivateMember.csproj.CoreCompileInputs.cache
+C:\Vrunda\Assignment\PrivateMember\obj\Debug\net5.0\PrivateMember.dll
+C:\Vrunda\Assignment\PrivateMember\obj\Debug\net5.0\ref\PrivateMember.dll
+C:\Vrunda\Assignment\PrivateMember\obj\Debug\net5.0\PrivateMember.pdb
+C:\Vrunda\Assignment\PrivateMember\obj\Debug\net5.0\PrivateMember.genruntimeconfig.cache

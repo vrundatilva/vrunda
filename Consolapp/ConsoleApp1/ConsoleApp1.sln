@@ -3,15 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32602.291
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{74DF312B-BA3D-4131-849B-D69C33252252}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{74DF312B-BA3D-4131-849B-D69C33252252}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Overloading", "..\Overloading\Overloading.csproj", "{B5B5E211-099F-46EE-8C94-ACE41A3C1F56}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Overloading", "..\Overloading\Overloading.csproj", "{B5B5E211-099F-46EE-8C94-ACE41A3C1F56}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Overiding", "..\Overiding\Overiding.csproj", "{92643887-42AC-4F4F-A9AE-63FBF0B7A4B3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Overiding", "..\Overiding\Overiding.csproj", "{92643887-42AC-4F4F-A9AE-63FBF0B7A4B3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance", "..\Inheritance\Inheritance.csproj", "{97321B3E-ED11-43F5-952C-356EA05E72B3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Inheritance", "..\Inheritance\Inheritance.csproj", "{97321B3E-ED11-43F5-952C-356EA05E72B3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataType", "..\DataType\DataType.csproj", "{C546A644-1D5A-471D-AF79-A93AF9D47EE7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataType", "..\DataType\DataType.csproj", "{C546A644-1D5A-471D-AF79-A93AF9D47EE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "properties", "..\properties\properties.csproj", "{81C03E53-B1FB-4583-B99D-3B4A5059F1D4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{C546A644-1D5A-471D-AF79-A93AF9D47EE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C546A644-1D5A-471D-AF79-A93AF9D47EE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C546A644-1D5A-471D-AF79-A93AF9D47EE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81C03E53-B1FB-4583-B99D-3B4A5059F1D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81C03E53-B1FB-4583-B99D-3B4A5059F1D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81C03E53-B1FB-4583-B99D-3B4A5059F1D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81C03E53-B1FB-4583-B99D-3B4A5059F1D4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

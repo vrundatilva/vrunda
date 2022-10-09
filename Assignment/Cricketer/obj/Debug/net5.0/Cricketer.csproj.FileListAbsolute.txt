@@ -1,0 +1,16 @@
+C:\Vrunda\Assignment\Cricketer\bin\Debug\net5.0\Cricketer.exe
+C:\Vrunda\Assignment\Cricketer\bin\Debug\net5.0\Cricketer.deps.json
+C:\Vrunda\Assignment\Cricketer\bin\Debug\net5.0\Cricketer.runtimeconfig.json
+C:\Vrunda\Assignment\Cricketer\bin\Debug\net5.0\Cricketer.runtimeconfig.dev.json
+C:\Vrunda\Assignment\Cricketer\bin\Debug\net5.0\Cricketer.dll
+C:\Vrunda\Assignment\Cricketer\bin\Debug\net5.0\ref\Cricketer.dll
+C:\Vrunda\Assignment\Cricketer\bin\Debug\net5.0\Cricketer.pdb
+C:\Vrunda\Assignment\Cricketer\obj\Debug\net5.0\Cricketer.csproj.AssemblyReference.cache
+C:\Vrunda\Assignment\Cricketer\obj\Debug\net5.0\Cricketer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Vrunda\Assignment\Cricketer\obj\Debug\net5.0\Cricketer.AssemblyInfoInputs.cache
+C:\Vrunda\Assignment\Cricketer\obj\Debug\net5.0\Cricketer.AssemblyInfo.cs
+C:\Vrunda\Assignment\Cricketer\obj\Debug\net5.0\Cricketer.csproj.CoreCompileInputs.cache
+C:\Vrunda\Assignment\Cricketer\obj\Debug\net5.0\Cricketer.dll
+C:\Vrunda\Assignment\Cricketer\obj\Debug\net5.0\ref\Cricketer.dll
+C:\Vrunda\Assignment\Cricketer\obj\Debug\net5.0\Cricketer.pdb
+C:\Vrunda\Assignment\Cricketer\obj\Debug\net5.0\Cricketer.genruntimeconfig.cache

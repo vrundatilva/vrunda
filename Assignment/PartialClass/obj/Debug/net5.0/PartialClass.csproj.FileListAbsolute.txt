@@ -1,0 +1,15 @@
+C:\Vrunda\Assignment\PartialClass\bin\Debug\net5.0\PartialClass.exe
+C:\Vrunda\Assignment\PartialClass\bin\Debug\net5.0\PartialClass.deps.json
+C:\Vrunda\Assignment\PartialClass\bin\Debug\net5.0\PartialClass.runtimeconfig.json
+C:\Vrunda\Assignment\PartialClass\bin\Debug\net5.0\PartialClass.runtimeconfig.dev.json
+C:\Vrunda\Assignment\PartialClass\bin\Debug\net5.0\PartialClass.dll
+C:\Vrunda\Assignment\PartialClass\bin\Debug\net5.0\ref\PartialClass.dll
+C:\Vrunda\Assignment\PartialClass\bin\Debug\net5.0\PartialClass.pdb
+C:\Vrunda\Assignment\PartialClass\obj\Debug\net5.0\PartialClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Vrunda\Assignment\PartialClass\obj\Debug\net5.0\PartialClass.AssemblyInfoInputs.cache
+C:\Vrunda\Assignment\PartialClass\obj\Debug\net5.0\PartialClass.AssemblyInfo.cs
+C:\Vrunda\Assignment\PartialClass\obj\Debug\net5.0\PartialClass.csproj.CoreCompileInputs.cache
+C:\Vrunda\Assignment\PartialClass\obj\Debug\net5.0\PartialClass.dll
+C:\Vrunda\Assignment\PartialClass\obj\Debug\net5.0\ref\PartialClass.dll
+C:\Vrunda\Assignment\PartialClass\obj\Debug\net5.0\PartialClass.pdb
+C:\Vrunda\Assignment\PartialClass\obj\Debug\net5.0\PartialClass.genruntimeconfig.cache

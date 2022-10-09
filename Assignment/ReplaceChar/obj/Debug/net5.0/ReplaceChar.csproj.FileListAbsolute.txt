@@ -1,0 +1,15 @@
+C:\Vrunda\Assignment\ReplaceChar\bin\Debug\net5.0\ReplaceChar.exe
+C:\Vrunda\Assignment\ReplaceChar\bin\Debug\net5.0\ReplaceChar.deps.json
+C:\Vrunda\Assignment\ReplaceChar\bin\Debug\net5.0\ReplaceChar.runtimeconfig.json
+C:\Vrunda\Assignment\ReplaceChar\bin\Debug\net5.0\ReplaceChar.runtimeconfig.dev.json
+C:\Vrunda\Assignment\ReplaceChar\bin\Debug\net5.0\ReplaceChar.dll
+C:\Vrunda\Assignment\ReplaceChar\bin\Debug\net5.0\ref\ReplaceChar.dll
+C:\Vrunda\Assignment\ReplaceChar\bin\Debug\net5.0\ReplaceChar.pdb
+C:\Vrunda\Assignment\ReplaceChar\obj\Debug\net5.0\ReplaceChar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Vrunda\Assignment\ReplaceChar\obj\Debug\net5.0\ReplaceChar.AssemblyInfoInputs.cache
+C:\Vrunda\Assignment\ReplaceChar\obj\Debug\net5.0\ReplaceChar.AssemblyInfo.cs
+C:\Vrunda\Assignment\ReplaceChar\obj\Debug\net5.0\ReplaceChar.csproj.CoreCompileInputs.cache
+C:\Vrunda\Assignment\ReplaceChar\obj\Debug\net5.0\ReplaceChar.dll
+C:\Vrunda\Assignment\ReplaceChar\obj\Debug\net5.0\ref\ReplaceChar.dll
+C:\Vrunda\Assignment\ReplaceChar\obj\Debug\net5.0\ReplaceChar.pdb
+C:\Vrunda\Assignment\ReplaceChar\obj\Debug\net5.0\ReplaceChar.genruntimeconfig.cache
