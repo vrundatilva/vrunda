@@ -12,5 +12,9 @@ namespace JsDemo.Controllers
         {
             return View();
         }
+        public IActionResult nivos()
+        {
+            return View();
+        }
     }
 }
