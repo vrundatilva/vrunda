@@ -9,12 +9,12 @@ namespace DependencyInjection.Controllers
 {
     public class DefaultController : Controller
     {
-        private readonly VisitorCounter _counter;
-        public DefaultController(VisitorCounter counter)
+        private readonly IVisitorCounter _counter;
+        public DefaultController(IVisitorCounter counter)
         {
             _counter = counter;
         }
-        public IActionResult Index([FromServices] VisitorCounter _cnt)
+        public IActionResult Index([FromServices] IVisitorCounter _cnt)
         {
             ViewBag.count = _counter.Getcount();
             ViewBag.cnt = _cnt.Getcount();//when we use only one controoler then we can use [FromServices] IVisitorCounter _cnt

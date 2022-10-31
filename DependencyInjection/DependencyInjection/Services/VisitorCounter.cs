@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace DependencyInjection.Services
 {
-    public class VisitorCounter
+    public class VisitorCounter:IVisitorCounter
     {
         public int count { get;set; }
         public int Getcount()

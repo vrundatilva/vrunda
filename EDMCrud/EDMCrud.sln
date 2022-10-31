@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EDMCrud", "EDMCrud\EDMCrud.csproj", "{EFED5893-EEDF-4419-AE27-CDC8641B51FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFED5893-EEDF-4419-AE27-CDC8641B51FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFED5893-EEDF-4419-AE27-CDC8641B51FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFED5893-EEDF-4419-AE27-CDC8641B51FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFED5893-EEDF-4419-AE27-CDC8641B51FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65695A6F-EB31-40D8-91E6-CDFBAED280C7}
+	EndGlobalSection
+EndGlobal
