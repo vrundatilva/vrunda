@@ -403,3 +403,5 @@ C:\Vrunda\JsDemo\JsDemo\obj\Debug\net5.0\JsDemo.pdb
 C:\Vrunda\JsDemo\JsDemo\obj\Debug\net5.0\JsDemo.genruntimeconfig.cache
 C:\Vrunda\JsDemo\JsDemo\obj\Debug\net5.0\Razor\Views\Default\Index.cshtml.g.cs
 C:\Vrunda\JsDemo\JsDemo\obj\Debug\net5.0\Razor\Views\Default\nivos.cshtml.g.cs
+C:\Vrunda\JsDemo\JsDemo\obj\Debug\net5.0\Razor\Views\Default\bvalid.cshtml.g.cs
+C:\Vrunda\JsDemo\JsDemo\obj\Debug\net5.0\Razor\Views\Default\dataval.cshtml.g.cs

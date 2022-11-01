@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using JsDemo.Models;
+using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -13,6 +14,19 @@ namespace JsDemo.Controllers
             return View();
         }
         public IActionResult nivos()
+        {
+            return View();
+        }
+        public IActionResult bvalid()
+        {
+            return View();
+        }
+        public IActionResult dataval()
+        {
+            return View();
+        }
+        [HttpPost]
+        public IActionResult dataval([Bind("fname,mobile")] Employee obj)//
         {
             return View();
         }
