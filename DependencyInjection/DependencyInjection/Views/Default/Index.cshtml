@@ -1,5 +1,5 @@
 ﻿@using DependencyInjection.Services;
-@inject VisitorCounter _counter
+@inject IVisitorCounter _counter
 @{
     ViewData["Title"] = "Index";
 }
@@ -7,4 +7,4 @@
 <h1>Index</h1>
 <h3>Controller level count: @ViewBag.count</h3>
 <h3>View Level count: @_counter.Getcount()</h3>
-<h3>View level count: @ViewBag.cnt</h3>
+<h3>@*View level count: @ViewBag.cnt*@</h3>

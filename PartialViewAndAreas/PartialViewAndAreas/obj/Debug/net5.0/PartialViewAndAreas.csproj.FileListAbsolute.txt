@@ -403,3 +403,9 @@ C:\Vrunda\PartialViewAndAreas\PartialViewAndAreas\obj\Debug\net5.0\PartialViewAn
 C:\Vrunda\PartialViewAndAreas\PartialViewAndAreas\obj\Debug\net5.0\PartialViewAndAreas.genruntimeconfig.cache
 C:\Vrunda\PartialViewAndAreas\PartialViewAndAreas\obj\Debug\net5.0\Razor\Views\Default\Index.cshtml.g.cs
 C:\Vrunda\PartialViewAndAreas\PartialViewAndAreas\obj\Debug\net5.0\Razor\Views\Default\PIndex.cshtml.g.cs
+C:\Vrunda\PartialViewAndAreas\PartialViewAndAreas\obj\Debug\net5.0\Razor\Areas\Admin\Shared\_Layout.cshtml.g.cs
+C:\Vrunda\PartialViewAndAreas\PartialViewAndAreas\obj\Debug\net5.0\Razor\Areas\Admin\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Vrunda\PartialViewAndAreas\PartialViewAndAreas\obj\Debug\net5.0\Razor\Areas\User\Shared\_Layout.cshtml.g.cs
+C:\Vrunda\PartialViewAndAreas\PartialViewAndAreas\obj\Debug\net5.0\Razor\Areas\User\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Vrunda\PartialViewAndAreas\PartialViewAndAreas\obj\Debug\net5.0\Razor\Areas\Admin\Views\Master\Index.cshtml.g.cs
+C:\Vrunda\PartialViewAndAreas\PartialViewAndAreas\obj\Debug\net5.0\Razor\Areas\User\Views\Manage\Index.cshtml.g.cs

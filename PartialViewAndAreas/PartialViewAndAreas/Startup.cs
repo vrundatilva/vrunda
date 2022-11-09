@@ -48,6 +48,16 @@ namespace PartialViewAndAreas
 
             app.UseEndpoints(endpoints =>
             {
+                endpoints.MapAreaControllerRoute(
+                      name: "MyAdminArea",
+                      areaName:"Admin",
+                      pattern: "Admin/{controller}/{action}/{id?}");
+
+                endpoints.MapAreaControllerRoute(
+                      name: "MyUserArea",
+                      areaName: "User",
+                      pattern: "User/{controller}/{action}/{id?}");
+
                 endpoints.MapControllerRoute(
                     name: "default",
                     pattern: "{controller=Home}/{action=Index}/{id?}");

@@ -26,9 +26,9 @@ namespace DependencyInjection
         {
             services.AddControllersWithViews();
             //services.AddSingleton<IVisitorCounter, VisitorCounter>();/multitime  time services is created so always count ++ 
-            services.AddSingleton<VisitorCounter>();
-            //services.AddScoped<IVisitorCounter, VisitorCounter>();services is created once per each http request
-            //services.AddTransient<IVisitorCounter,VisitorCounter>();//services is created each time when it is requested 
+            services.AddSingleton<IVisitorCounter, VisitorCounter>();
+            //services.AddScoped<IVisitorCounter, VisitorCounter>(); //services is created once per each http request
+            //services.AddTransient<IVisitorCounter, VisitorCounter>();//services is created each time when it is requested 
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

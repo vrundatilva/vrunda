@@ -407,3 +407,4 @@ C:\Vrunda\StateMgmt\StateMgmt\obj\Debug\net5.0\Razor\Views\Default\Create.cshtml
 C:\Vrunda\StateMgmt\StateMgmt\obj\Debug\net5.0\Razor\Views\Default\next.cshtml.g.cs
 C:\Vrunda\StateMgmt\StateMgmt\obj\Debug\net5.0\Razor\Views\Default\svar.cshtml.g.cs
 C:\Vrunda\StateMgmt\StateMgmt\obj\Debug\net5.0\Razor\Views\Default\second.cshtml.g.cs
+C:\Vrunda\StateMgmt\StateMgmt\obj\Debug\net5.0\Razor\Views\Default\msg.cshtml.g.cs

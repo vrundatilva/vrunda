@@ -27,6 +27,7 @@ namespace StateMgmt.Controllers
             ViewBag.msg = msg;
             return View();
         }
+
         public IActionResult Create()
         {
             _httpContextAccessor.HttpContext.Session.SetString("uname", "vrunda");
@@ -39,6 +40,8 @@ namespace StateMgmt.Controllers
         public IActionResult svar()
         {
             ViewBag.message = "";
+            //ViewData[“KeyName”] = “Some Data”;
+            //example of view data:https://dotnettutorials.net/lesson/viewdata-asp-net-core-mvc/
             ViewData["msg"] = "from ViewData";
 
             TempData["info"] = "from TempData";
