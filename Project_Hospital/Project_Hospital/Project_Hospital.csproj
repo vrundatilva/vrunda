@@ -18,8 +18,9 @@
   <ItemGroup>
     <Folder Include="Areas\Admin\Data\" />
     <Folder Include="Areas\Admin\Models\" />
+    <Folder Include="Areas\Hospital\Data\" />
+    <Folder Include="Areas\Hospital\Models\" />
     <Folder Include="Data\" />
-    <Folder Include="EDM\" />
     <Folder Include="Models\" />
     <Folder Include="wwwroot\css\" />
     <Folder Include="wwwroot\images\" />

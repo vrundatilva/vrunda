@@ -17,45 +17,26 @@ namespace Project_Hospital.EDM
         {
         }
 
-        public virtual DbSet<Admin> Admins { get; set; }
         public virtual DbSet<Appointment> Appointments { get; set; }
         public virtual DbSet<City> Cities { get; set; }
         public virtual DbSet<Doctor> Doctors { get; set; }
-        public virtual DbSet<Hospital> Hospitals { get; set; }
+        public virtual DbSet<HAdmin> HAdmins { get; set; }
         public virtual DbSet<Patient> Patients { get; set; }
         public virtual DbSet<State> States { get; set; }
+        public virtual DbSet<TblHospital> TblHospitals { get; set; }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            if (!optionsBuilder.IsConfigured)
-            {
-#warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see http://go.microsoft.com/fwlink/?LinkId=723263.
-                optionsBuilder.UseSqlServer("Server=ASHISHV\\SQLEXPRESS;Database=Hospital_Detail;Integrated Security=True");
-            }
+//            if (!optionsBuilder.IsConfigured)
+//            {
+//#warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see http://go.microsoft.com/fwlink/?LinkId=723263.
+//                optionsBuilder.UseSqlServer("Server=ASHISHV\\SQLEXPRESS;Database=Hospital_Detail;Integrated Security=True");
+//            }
         }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.HasAnnotation("Relational:Collation", "SQL_Latin1_General_CP1_CI_AS");
-
-            modelBuilder.Entity<Admin>(entity =>
-            {
-                entity.ToTable("Admin");
-
-                entity.Property(e => e.AdminId).HasColumnName("Admin_Id");
-
-                entity.Property(e => e.Email).HasMaxLength(50);
-
-                entity.Property(e => e.Fname)
-                    .HasMaxLength(50)
-                    .HasColumnName("FName");
-
-                entity.Property(e => e.Lname)
-                    .HasMaxLength(50)
-                    .HasColumnName("LName");
-
-                entity.Property(e => e.Password).HasMaxLength(50);
-            });
 
             modelBuilder.Entity<Appointment>(entity =>
             {
@@ -139,25 +120,24 @@ namespace Project_Hospital.EDM
                     .HasConstraintName("FK__Doctor__H_id__300424B4");
             });
 
-            modelBuilder.Entity<Hospital>(entity =>
+            modelBuilder.Entity<HAdmin>(entity =>
             {
-                entity.HasKey(e => e.HospId);
+                entity.HasKey(e => e.AdminId)
+                    .HasName("PK_Admin");
 
-                entity.ToTable("Hospital");
+                entity.ToTable("H_Admin");
 
-                entity.Property(e => e.HospId).HasColumnName("Hosp_Id");
+                entity.Property(e => e.AdminId).HasColumnName("Admin_Id");
 
-                entity.Property(e => e.HLogImg).HasColumnName("H_Log_Img");
+                entity.Property(e => e.Email).HasMaxLength(50);
 
-                entity.Property(e => e.Hname)
+                entity.Property(e => e.Fname)
                     .HasMaxLength(50)
-                    .HasColumnName("HName");
+                    .HasColumnName("FName");
 
-                entity.Property(e => e.HospEmail)
+                entity.Property(e => e.Lname)
                     .HasMaxLength(50)
-                    .HasColumnName("Hosp_Email");
-
-                entity.Property(e => e.Mobile).HasMaxLength(50);
+                    .HasColumnName("LName");
 
                 entity.Property(e => e.Password).HasMaxLength(50);
             });
@@ -212,6 +192,30 @@ namespace Project_Hospital.EDM
                 entity.Property(e => e.StateName)
                     .HasMaxLength(50)
                     .HasColumnName("State_Name");
+            });
+
+            modelBuilder.Entity<TblHospital>(entity =>
+            {
+                entity.HasKey(e => e.HospId)
+                    .HasName("PK_Hospital");
+
+                entity.ToTable("TblHospital");
+
+                entity.Property(e => e.HospId).HasColumnName("Hosp_Id");
+
+                entity.Property(e => e.HLogImg).HasColumnName("H_Log_Img");
+
+                entity.Property(e => e.Hname)
+                    .HasMaxLength(50)
+                    .HasColumnName("HName");
+
+                entity.Property(e => e.HospEmail)
+                    .HasMaxLength(50)
+                    .HasColumnName("Hosp_Email");
+
+                entity.Property(e => e.Mobile).HasMaxLength(50);
+
+                entity.Property(e => e.Password).HasMaxLength(50);
             });
 
             OnModelCreatingPartial(modelBuilder);

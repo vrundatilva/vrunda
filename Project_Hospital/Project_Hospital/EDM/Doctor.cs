@@ -14,6 +14,6 @@ namespace Project_Hospital.EDM
         public string Specialitites { get; set; }
         public int? HId { get; set; }
 
-        public virtual Hospital HIdNavigation { get; set; }
+        public virtual TblHospital HIdNavigation { get; set; }
     }
 }

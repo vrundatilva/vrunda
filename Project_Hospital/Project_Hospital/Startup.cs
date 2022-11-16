@@ -1,4 +1,5 @@
 using Microsoft.AspNetCore.Builder;
+using Project_Hospital.EDM;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.Extensions.Configuration;
@@ -8,6 +9,8 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.AspNetCore.Http;
 
 namespace Project_Hospital
 {
@@ -24,6 +27,14 @@ namespace Project_Hospital
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllersWithViews();
+            services.AddDbContext<Hospital_DetailContext>(opts =>
+            {
+                opts.UseSqlServer(Configuration["ConnectionStrings:conn"]);
+            });
+            services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
+            services.AddSession(opts => {
+                opts.IdleTimeout = TimeSpan.FromMinutes(30);
+            });
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -43,14 +54,24 @@ namespace Project_Hospital
             app.UseStaticFiles();
 
             app.UseRouting();
-
+            app.UseSession();
             app.UseAuthorization();
 
             app.UseEndpoints(endpoints =>
             {
+                endpoints.MapAreaControllerRoute(
+                      name: "MyAdminArea",
+                      areaName: "Admin",
+                      pattern: "Admin/{controller}/{action}/{id?}");
+
+                endpoints.MapAreaControllerRoute(
+                     name: "MyHospitalArea",
+                     areaName: "Hospital",
+                     pattern: "Hospital/{controller}/{action}/{id?}");
+
                 endpoints.MapControllerRoute(
                     name: "default",
-                    pattern: "{controller=Home}/{action=Index}/{id?}");
+                    pattern: "{area=Admin}/{controller=Master}/{action=Login}/{id?}");
             });
         }
     }

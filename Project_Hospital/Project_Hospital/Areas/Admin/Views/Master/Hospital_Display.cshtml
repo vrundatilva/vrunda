@@ -1,0 +1,68 @@
+﻿@model IEnumerable<Project_Hospital.EDM.TblHospital>
+
+@{
+    ViewData["Title"] = "Hospital_Display";
+    Layout = "~/Areas/Admin/Views/Admin_Layout.cshtml";
+}
+
+    <p>
+        <a asp-action="Create">Create New</a>
+    </p>
+    <table class="table" width="100px">
+        <thead>
+            <tr>
+               
+                <th>
+                    @Html.DisplayNameFor(model => model.Hname)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.HLogImg)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Mobile)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.HospEmail)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Password)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Address)
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+            <tr>
+
+                <td>
+                    @Html.DisplayFor(modelItem => item.Hname)
+                </td>
+                <td>
+                    @*  @Html.DisplayFor(modelItem => item.HLogImg)*@
+                    <img src="~/Images/@item.HLogImg" height="80" width="80" />
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Mobile)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.HospEmail)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Password)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Address)
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "HospitalEdit", new { id = item.HospId }) |
+                    @Html.ActionLink("Details", "Details", new { id = item.HospId }) |
+                    @Html.ActionLink("Delete", "HospitalDelete", new { id = item.HospId })
+                </td>
+            </tr>
+            }
+        </tbody>
+    </table>

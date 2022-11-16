@@ -14,7 +14,7 @@ namespace Project_Hospital.EDM
         public DateTime? AppoDate { get; set; }
         public string AppoStatus { get; set; }
 
-        public virtual Hospital Hop { get; set; }
+        public virtual TblHospital Hop { get; set; }
         public virtual Patient Pt { get; set; }
     }
 }

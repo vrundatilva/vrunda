@@ -434,3 +434,8 @@ C:\Vrunda\EDMCrud\EDMCrud\obj\Debug\net5.0\Razor\Views\Default\Create.cshtml.g.c
 C:\Vrunda\EDMCrud\EDMCrud\obj\Debug\net5.0\Razor\Views\Default\EditEmp.cshtml.g.cs
 C:\Vrunda\EDMCrud\EDMCrud\obj\Debug\net5.0\Razor\Views\Default\Delete.cshtml.g.cs
 C:\Vrunda\EDMCrud\EDMCrud\obj\Debug\net5.0\Razor\Views\Default\Detail.cshtml.g.cs
+C:\Vrunda\EDMCrud\EDMCrud\obj\Debug\net5.0\Razor\Views\Employees\Create.cshtml.g.cs
+C:\Vrunda\EDMCrud\EDMCrud\obj\Debug\net5.0\Razor\Views\Employees\Delete.cshtml.g.cs
+C:\Vrunda\EDMCrud\EDMCrud\obj\Debug\net5.0\Razor\Views\Employees\Details.cshtml.g.cs
+C:\Vrunda\EDMCrud\EDMCrud\obj\Debug\net5.0\Razor\Views\Employees\Edit.cshtml.g.cs
+C:\Vrunda\EDMCrud\EDMCrud\obj\Debug\net5.0\Razor\Views\Employees\Index.cshtml.g.cs
