@@ -6,7 +6,7 @@
 }
 
     <p>
-        <a asp-action="Create">Create New</a>
+        <a asp-action="HospitalAdd">Create New</a>
     </p>
     <table class="table" width="100px">
         <thead>
@@ -15,7 +15,7 @@
                 <th>
                     @Html.DisplayNameFor(model => model.Hname)
                 </th>
-                <th>
+                <th>                                                                                                                                            
                     @Html.DisplayNameFor(model => model.HLogImg)
                 </th>
                 <th>
@@ -59,7 +59,7 @@
                 </td>
                 <td>
                     @Html.ActionLink("Edit", "HospitalEdit", new { id = item.HospId }) |
-                    @Html.ActionLink("Details", "Details", new { id = item.HospId }) |
+                    @Html.ActionLink("Details", "HospitalDetail", new { id = item.HospId }) |
                     @Html.ActionLink("Delete", "HospitalDelete", new { id = item.HospId })
                 </td>
             </tr>

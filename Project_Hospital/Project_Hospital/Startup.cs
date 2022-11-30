@@ -71,7 +71,7 @@ namespace Project_Hospital
 
                 endpoints.MapControllerRoute(
                     name: "default",
-                    pattern: "{area=Admin}/{controller=Master}/{action=Login}/{id?}");
+                    pattern: "{area=Hospital}/{controller=Hospital}/{action=Login}/{id?}");
             });
         }
     }

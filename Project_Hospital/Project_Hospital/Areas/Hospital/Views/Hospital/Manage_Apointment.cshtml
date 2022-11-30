@@ -1,0 +1,68 @@
+﻿@model IEnumerable<Project_Hospital.EDM.Appointment>
+@using Project_Hospital.EDM
+@inject Hospital_DetailContext _context
+
+@{
+    ViewData["Title"] = "Manage_Apointment";
+    Layout = "~/Areas/Hospital/Views/Hospital_Layout.cshtml";
+}
+
+<h2>Manage_Apointment</h2>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.AppId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PatientName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.HospitalName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DoctorName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.AppoDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.AppoStatus)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.AppId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PatientName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.HospitalName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DoctorName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.AppoDate ,"{dd-MM-yyyy}")
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.AppoStatus)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "AppointmentEdit", new {  id=item.AppId}) |
+                @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Delete", "AppointmentDelete", new {  id=item.AppId})
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

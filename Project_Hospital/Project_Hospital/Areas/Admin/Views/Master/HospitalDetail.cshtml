@@ -1,0 +1,60 @@
+﻿@model Project_Hospital.EDM.TblHospital
+
+@{
+    ViewData["Title"] = "HospitalDetail";
+    Layout = "~/Areas/Admin/Views/Admin_Layout.cshtml";
+}
+
+<h2>HospitalDetail</h2>
+
+<div>
+    <h4>TblHospital</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.HospId)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.HospId)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Hname)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Hname)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.HLogImg)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.HLogImg)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Mobile)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Mobile)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.HospEmail)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.HospEmail)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Password)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Password)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Address)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Address)
+        </dd>
+    </dl>
+</div>
+<div>
+    @*@Html.ActionLink("Edit", "Edit", new { id = Model.HospId }) |*@
+</div>

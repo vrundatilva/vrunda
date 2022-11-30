@@ -54,14 +54,16 @@ namespace Project_Hospital.EDM
                     .HasMaxLength(50)
                     .HasColumnName("Appo_Status");
 
-                entity.Property(e => e.DId)
-                    .HasMaxLength(10)
-                    .HasColumnName("D_Id")
-                    .IsFixedLength(true);
+                //entity.Property(e => e.DId)
+                //    .HasMaxLength(10)
+                //    .HasColumnName("D_Id")
+                //    .IsFixedLength(true);
 
                 entity.Property(e => e.HopId).HasColumnName("Hop_Id");
 
                 entity.Property(e => e.PtId).HasColumnName("Pt_id");
+                entity.Property(e => e.DId).HasColumnName("D_Id");
+
 
                 entity.HasOne(d => d.Hop)
                     .WithMany(p => p.Appointments)
@@ -72,6 +74,11 @@ namespace Project_Hospital.EDM
                     .WithMany(p => p.Appointments)
                     .HasForeignKey(d => d.PtId)
                     .HasConstraintName("FK__Appointme__Pt_id__31EC6D26");
+
+                entity.HasOne(d => d.d)
+                   .WithMany(p =>p.Appointments)
+                   .HasForeignKey(d => d.DId)
+                   .HasConstraintName("FK__Appointmen__D_Id__5CD6CB2B");
             });
 
             modelBuilder.Entity<City>(entity =>
@@ -94,11 +101,11 @@ namespace Project_Hospital.EDM
 
             modelBuilder.Entity<Doctor>(entity =>
             {
-                entity.HasKey(e => e.DocId);
+                entity.HasKey(e => e.Doc_Id);
 
                 entity.ToTable("Doctor");
 
-                entity.Property(e => e.DocId).HasColumnName("Doc_Id");
+                entity.Property(e => e.Doc_Id).HasColumnName("Doc_Id");
 
                 entity.Property(e => e.Fname)
                     .HasMaxLength(50)

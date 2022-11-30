@@ -1,0 +1,65 @@
+﻿@model IEnumerable<Project_Hospital.EDM.Doctor>
+
+@{
+    ViewData["Title"] = "Manage_Doctor";
+    Layout = "~/Areas/Hospital/Views/Hospital_Layout.cshtml";
+}
+
+
+<p>
+    <a asp-action="DoctorAdd">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Appointments)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Fname)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Lname)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Qualification)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Specialitites)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.HId)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Appointments)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Fname)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Lname)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Qualification)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Specialitites)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.HId)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "DoctorEdit", new {  id=item.Appointments }) |
+                @Html.ActionLink("Details", "Details", new {  id=item.Appointments }) |
+                @Html.ActionLink("Delete", "DoctorDelete", new {  id=item.Appointments  })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

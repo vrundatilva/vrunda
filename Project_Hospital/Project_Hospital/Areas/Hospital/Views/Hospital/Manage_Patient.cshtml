@@ -1,0 +1,92 @@
+﻿@model IEnumerable<Project_Hospital.EDM.Patient>
+
+@{
+    ViewData["Title"] = "Manage_Patient";
+    Layout = "~/Areas/Hospital/Views/Hospital_Layout.cshtml";
+}
+
+<h2>Manage_Patient</h2>
+
+<p>
+    <a asp-action="PatientAdd">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.PatId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Fname)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Lname)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Email)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Password)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PImg)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Mobile)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Address)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.SId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CId)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.PatId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Fname)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Lname)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Email)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Password)
+            </td>
+            <td>
+                @*@Html.DisplayFor(modelItem => item.PImg)*@
+                <img src="~/Images/@item.PImg" height="80" width="80" />
+
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Mobile)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Address)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CId)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "PatientEdit", new {  id=item.PatId }) |
+                @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Delete", "PatientDelete", new {  id=item.PatId })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

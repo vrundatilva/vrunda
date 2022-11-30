@@ -122,6 +122,10 @@ namespace Project_Hospital.Areas.Admin.Controllers
             _context.SaveChanges();
             return RedirectToAction("Hospital_Display");
         }
+        public IActionResult HospitalDetail(int id)
+        {
+            return View(_context.TblHospitals.Find(id));
+        }
 
     }
 }
